@@ -27,6 +27,19 @@ The platform offers destination guides, travel recommendations, and helpful cont
 | Vercel         | Hosting & Deployment      |
 
 ---
+📩 Contact
+For collaboration or inquiries:
+
+Developer: @CabirH40
+
+Email: jaberhasana101@gmail.com
+
+Website: https://gorahal.com
+
+---
+🛡️ License
+© 2025 gorahal.app – All rights reserved.
+جميع الحقوق محفوظة. لا يجوز نسخ أو استخدام هذا المشروع لأغراض تجارية بدون إذن كتابي.
 
 ## ⚙️ Developer Setup
 
@@ -42,22 +55,9 @@ npm install
 
 # 4. Start the development server
 npm run dev
+---
+---
 
 
 
-
-
-📩 Contact
-For collaboration or inquiries:
-
-Developer: @CabirH40
-
-Email: jaberhasana101@gmail.com
-
-Website: https://gorahal.com
-
-
-🛡️ License
-© 2025 gorahal.app – All rights reserved.
-جميع الحقوق محفوظة. لا يجوز نسخ أو استخدام هذا المشروع لأغراض تجارية بدون إذن كتابي.
 
